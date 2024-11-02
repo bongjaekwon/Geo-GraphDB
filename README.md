@@ -7,9 +7,12 @@ Geo-GraphDB is a project developed in the context of Geographic Information Syst
 
 ## Author
 
-Bongjae Kwon 
-Civil and Environmental Engineering GIS/LBS Lab 
+Bongjae Kwon  
+Civil and Environmental Engineering GIS/LBS Lab  
 Seoul National University
+
+bongjae.kwon@snu.ac.kr
+
 
 ## Features
 
